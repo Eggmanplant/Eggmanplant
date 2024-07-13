@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eggmanplant
 - 👀 I’m interested in Minecraft and Sonic
-- 🌱 I’m currently learning Flatpak
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on the Trailier Tales mod for Minecraft
 - ⚡ Fun fact: Team Forever's Decomp is Open Source. \
   It runs on Linux with some bugs. [Check it out here](https://github.com/ElspethThePict/TeamForever-v4-1.3),\
