@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Eggmanplant
-- 👀 I’m moving to GitLab
+- 👀 I’m moving to Codeberg
